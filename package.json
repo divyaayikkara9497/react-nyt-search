@@ -1,0 +1,24 @@
+{
+  "name": "react-nyt-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyaayikkara9497/react-nyt-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divyaayikkara9497/react-nyt-search/issues"
+  },
+  "homepage": "https://github.com/divyaayikkara9497/react-nyt-search#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.0.5",
+    "mongoose": "^5.0.12"
+  }
+}
